@@ -25,7 +25,7 @@ TEST_DATA_USER = {
 
 TEST_DATA_WALLET = {
     'id_user': '1232',
-    'address': '0xCC9316F79e6d8a8f5610723C40FD3f6574202336', #metamask второй кошелек, мало мани
+    'address': 'address',
     'secret_key': '56te34'
 }
 
@@ -34,7 +34,7 @@ TEST_DATA_TRANSACTION = {
     'client': '1232',
     'amount': '0.001',
     'amount_usdt': '0.001',
-    'address_client': '0x9bA77BE511BbA03B8A559C2C9bfAdb77119117f4' #metamask много мани
+    'address_client': 'address'
 }
 
 
