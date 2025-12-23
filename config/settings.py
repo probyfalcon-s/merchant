@@ -1,0 +1,15 @@
+BASE_URL = "https://"
+AUTH_URL = f"{BASE_URL}/admin/auth"
+USERS_URL = f"{BASE_URL}/admin/users"
+ADMIN_URL = f"{BASE_URL}/admin"
+ADDRESSES_URL = f"{BASE_URL}/admin/addresses"
+TRANSACTIONS_URL = f"{BASE_URL}/admin/transaction"
+TAX_URL = f"{BASE_URL}/admin/tax"
+
+
+BASE_URL_CLIENT = "https://"
+URL_CLIENT_AUTH = f"{BASE_URL_CLIENT}/auth"
+URL_CLIENT_ADDRESSES = f"{BASE_URL_CLIENT}/addresses"
+URL_CLIENT_TRANSACTION = f"{BASE_URL_CLIENT}/transaction"
+URL_CLIENT_FEES = f"{BASE_URL_CLIENT}/tax"
+URL_CLIENT_PROFILE = f"{BASE_URL_CLIENT}/profile"
